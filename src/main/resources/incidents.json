@@ -1,0 +1,74 @@
+[
+	{
+		"id": "11129",
+		"product": "Toshiba Laptop Computer",
+		"subject": "Keys are sticking",
+		"summary": "Customer reports that keys are sticking after spilling a diet soda on it",
+		"customer": "Tech Experts",
+		"customerId": "46995",
+		"claimDate": "04-28-2020",
+		"approved": true,
+		"status": "In-progress",
+		"comments": "Waiting for partner assignment"
+	},
+	{
+		"id": "11131",
+		"product": "Idea tablet",
+		"subject": "Display blank",
+		"summary": "When powering up unit, the display is blank",
+		"customer": "Smithers Corp",
+		"customerId": "46997",
+		"claimDate": "05-02-2020",
+		"approved": true,
+		"status": "In-progress",
+		"comments": "In-house repair looking at this"
+	},
+	{
+		"id": "11133",
+		"product": "Smart TV",
+		"subject": "Wifi not working",
+		"summary": "When powering up, the wifi does not recognize any wireless network",
+		"customer": "Smithers Corp",
+		"customerId": "46997",
+		"claimDate": "01-31-2020",
+		"approved": true,
+		"status": "Closed",
+		"comments": "Partner fixed the product on time. Customer got the product"
+	},
+	{
+		"id": "11135",
+		"product": "iPad",
+		"subject": "Storage is damaged",
+		"summary": "iPad is not able to store new files",
+		"customer": "Smithers Corp",
+		"customerId": "46997",
+		"claimDate": "02-09-2020",
+		"approved": true,
+		"status": "Resolved",
+		"comments": "Product fixed. Ready for customer."
+	},
+	{
+		"id": "11137",
+		"product": "iPhone X",
+		"subject": "Display broken",
+		"summary": "Replace the broken screen",
+		"customer": "Tech Experts",
+		"customerId": "46995",
+		"claimDate": "05-05-2020",
+		"approved": true,
+		"status": "In-progress",
+		"comments": "Partner received this product."
+	},
+	{
+		"id": "11139",
+		"product": "Lenovo Laptop Computer",
+		"subject": "Keys are sticking",
+		"summary": "Customer reports that keys are sticking after spilling a sugar-laden soft-drink on it",
+		"customer": "Tech Experts",
+		"customerId": "46995",
+		"claimDate": "04-28-2020",
+		"approved": false,
+		"status": "New",
+		"comments": "Waiting for partner assignment"
+	}
+]
